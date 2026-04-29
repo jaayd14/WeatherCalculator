@@ -61,6 +61,3 @@ This prevents invalid calculations.
 ```bash
 javac weatherTest.java
 
-Weather Calculator Game View:
-<img width="1480" height="1007" alt="image" src="https://github.com/user-attachments/assets/d2e92068-d735-41d7-adcd-109fda946f3a" />
-
