@@ -62,4 +62,5 @@ This prevents invalid calculations.
 javac weatherTest.java
 
 Weather Calculator Game View:
-<img width="1480" height="1007" alt="image" src="https://github.com/user-attachments/assets/0b8b5f45-edc0-41b3-9f62-d6476e76f8b5" />
+<img width="1480" height="1007" alt="image" src="https://github.com/user-attachments/assets/d2e92068-d735-41d7-adcd-109fda946f3a" />
+
